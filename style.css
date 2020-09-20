@@ -1,0 +1,41 @@
+body {
+    background: #A9A9A9;
+    color:#D2B48C;
+}
+
+main {
+    max-width: 1024px;
+    margin: 30px auto;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background: #696969;    
+    font-family: sans-serif;
+}
+
+li {
+    list-style-type: circle;
+}
+  
+h1 {
+    color:#8B4513;
+    font-size: 40px;
+}
+
+h2 {
+    color: #CD853F;
+}
+
+.photo {
+    float: right;
+    margin-right: 30px;
+    margin-top: 40px;
+    border-radius: 300px;     
+}
+
+.code {
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;    
+    background-color:#FFFFFF;
+    color: black;
+}
